@@ -27,4 +27,4 @@ We will be predicting the Median Value MEDV which is the Median value of owner-o
   
 </table>
 
-**So what are you waiting for..? Jump to the code to get started. As usual for any doubt or query see you in pull request section. Thanks!**
+**So what are you waiting for..? Jump to the code to get started. As usual for any doubt or query see you in pull request section 😁😂. Thanks!**
