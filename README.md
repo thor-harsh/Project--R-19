@@ -4,10 +4,10 @@
 <table>
 
   **In this project We will use the popular Boston dataset from the MASS package, which describes some features for houses in Boston in 1978**.<br></br>
-  The features are given below: <br>
+  **The features are given below**:<br></br>
 
-CRIM - per capita crime rate by town.<br></br>
-ZN - proportion of residential land zoned for lots over 25,000 sq.ft.<br></br>
+CRIM - per capita crime rate by town.<br>
+ZN - proportion of residential land zoned for lots over 25,000 sq.ft.<br>
 INDUS - proportion of non-retail business acres per town.<br></br>
 CHAS - Charles River dummy variable (1 if tract bounds river; 0 otherwise)<br></br>
 NOX - nitric oxides concentration (parts per 10 million)<br></br>
