@@ -4,6 +4,7 @@
 <table>
 
   **In this project We will use the popular Boston dataset from the MASS package, which describes some features for houses in Boston in 1978**.<br></br>
+  
   **The features are given below**:<br></br>
 
 CRIM - per capita crime rate by town.<br></br>
@@ -20,5 +21,8 @@ PTRATIO - pupil-teacher ratio by town.<br></br>
 B - 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town.<br></br>
 LSTAT - % lower status of the population.<br></br>
 MEDV - Median value of owner-occupied homes in $1000's.<br></br>
+
+We will be predicting the Median Value MEDV which is the Median value of owner-occupied homes in $1000's.
+
   
 </table>
